@@ -178,11 +178,11 @@
     <comment>Text to show yes in confirmation card.</comment>
   </data>
   <data name="ContentText" xml:space="preserve">
-    <value>Jetzt loslegen...</value>
+    <value>Starten Sie mit Ihrer Anfrage...</value>
     <comment>Text to show in EndUser welcome card.</comment>
   </data>
   <data name="NewRequestBulletPoint" xml:space="preserve">
-    <value>* Hit the  **New request** button or type **New request** in this chat.</value>
+    <value>* Klicken Sie auf die Schaltflaeche ** Neue Anfrage ** oder geben Sie ** Neue Anfrage ** in diesen Chat ein.</value>
     <comment>Text to show command in a welcome card.</comment>
   </data>
   <data name="NewRequestButtonText" xml:space="preserve">
@@ -190,15 +190,15 @@
     <comment>Text to show in Edit task module,new request card.</comment>
   </data>
   <data name="WelcomeCardContent" xml:space="preserve">
-    <value>Vor einem Problem? Ich kann das Bereitschaftsteam bitten, sich darum zu kuemmern.</value>
+    <value>Besteht ein Problem? Ich kann das Bereitschaftsteam bitten, sich darum zu kuemmern.</value>
     <comment>Text to show bot description in welcome card for EndUser.</comment>
   </data>
   <data name="WelcomeCardTitle" xml:space="preserve">
-    <value>Willkommen!</value>
+    <value>Willkommen bei der Teams Remote Support APP!</value>
     <comment>Text to show in welcome card.</comment>
   </data>
   <data name="WelcomeSubHeaderText" xml:space="preserve">
-    <value>So funktioniert das:</value>
+    <value>Funktionsweise:</value>
     <comment>Text to show as a sub header in welcome card.</comment>
   </data>
   <data name="AssignToMeActionChoiceTitle" xml:space="preserve">
@@ -226,7 +226,7 @@
     <comment>Text to show in change status section in SME request details card.</comment>
   </data>
   <data name="ReopenAssignToMeActionChoiceTitle" xml:space="preserve">
-    <value>Wieder oeffnen und mir zuweisen.</value>
+    <value>Wieder Oeffnen und mir zuweisen.</value>
     <comment>Text to show in change status section in SME request details card.</comment>
   </data>
   <data name="RequestDetailsText" xml:space="preserve">
@@ -266,7 +266,7 @@
     <comment>Text to show notification when request changes severity from SME Users.</comment>
   </data>
   <data name="SmeUnassignedStatus" xml:space="preserve">
-    <value>Status geaendert in nicht zugewiesen von {0}.</value>
+    <value>Status geaendert in: nicht zugewiesen von {0}.</value>
     <comment>Text to show notification when request is unassigned to SME Users.</comment>
   </data>
   <data name="ManageExpertsActionText" xml:space="preserve">
@@ -278,7 +278,7 @@
     <comment>On call SME detail card text.</comment>
   </data>
   <data name="UpdateHistoryActionText" xml:space="preserve">
-    <value>Siehe Verlauf</value>
+    <value>Verlauf ansehen</value>
     <comment>Text to show on button</comment>
   </data>
   <data name="DatetimeTitleText" xml:space="preserve">
@@ -318,15 +318,15 @@
     <comment>Text to show on button in EndUser ME.</comment>
   </data>
   <data name="ReopenedTicketUserNotification" xml:space="preserve">
-    <value>We're changing who works on your request. We'll update you soon.</value>
+    <value>Wir aendern gerade, wer an Ihrer Anfrage arbeitet. Wir werden diese bald aktualisieren.</value>
     <comment>Text to show user when status of ticket is reopened by Expert team member.</comment>
   </data>
   <data name="RequestActionTicketUserNotification" xml:space="preserve">
-    <value>The support team changed the severity level on your request #{0}.</value>
+    <value>Das Support-Team hat den Schweregrad Ihrer Anfrage geaendert #{0}.</value>
     <comment>Text to show user when severity of ticket is changed by Expert team member.</comment>
   </data>
   <data name="DateValidationText" xml:space="preserve">
-    <value>The date selected must be in the past</value>
+    <value>Das Datum liegt in der Vergangenheit</value>
     <comment>Text to show if issue date is greater than enter date of is empty.</comment>
   </data>
   <data name="DescriptionValidationText" xml:space="preserve">
@@ -338,19 +338,19 @@
     <comment>Text to show if title field is empty.</comment>
   </data>
   <data name="GroupName" xml:space="preserve">
-    <value>Request no {0}- attention required</value>
+    <value>Bitte keine {0} anfordern - Aufmerksamkeit erforderlich</value>
     <comment>Text to use as a group name when group is created.</comment>
   </data>
   <data name="MessageContent" xml:space="preserve">
-    <value>Hi Team, I need immediate support for request created by {0}. Can you help?</value>
+    <value>Hallo Team, ich benötige sofortige Unterstützung für Anfragen, die von {0} erstellt wurden. Kannst du helfen?</value>
     <comment>Text to show when user clicks on chat button.</comment>
   </data>
   <data name="InvalidTeamText" xml:space="preserve">
-    <value>This bot has not been added for this team</value>
+    <value>Dieser Bot wurde für dieses Team nicht hinzugefuegt</value>
     <comment>Text to show validation in ME when it is not a valid team to open request.</comment>
   </data>
   <data name="ExpertNameTitle" xml:space="preserve">
-    <value>Select a specialist</value>
+    <value>Experten auswaehlen</value>
     <comment>Text to show on manage experts page</comment>
   </data>
   <data name="AddButtonText" xml:space="preserve">
@@ -366,7 +366,7 @@
     <comment>Text to show on manage experts page.</comment>
   </data>
   <data name="NoMatchesFoundText" xml:space="preserve">
-    <value>We couldn't find any matches.</value>
+    <value>Wir konnten keine Uebereinstimmungen finden.</value>
     <comment>Text to show when there are no matches to condition.</comment>
   </data>
   <data name="SaveButtonText" xml:space="preserve">
@@ -374,35 +374,35 @@
     <comment>Text to show on save button.</comment>
   </data>
   <data name="OnCallExpertMentionText" xml:space="preserve">
-    <value>The on-call experts list has been modified. {0} have been added.</value>
+    <value>Die Expertenliste auf Abruf wurde geändert. {0} wurden hinzugefügt.</value>
     <comment>Text to show when on call expert list is modified.</comment>
   </data>
   <data name="MaxOnCallExpertsAllowedText" xml:space="preserve">
-    <value>A maximum of 15 people can be added to the list with a min of 0</value>
+    <value>Der Liste können maximal 15 Personen mit einer Mindestanzahl von 0 hinzugefügt werden</value>
     <comment>Text to show for validation message when on call experts selected are more than 15.</comment>
   </data>
   <data name="ExperListBulletPoint" xml:space="preserve">
-    <value>* Hit **Current on-call team** button to set up on call experts from this team.</value>
+    <value>* Klicken Sie auf die Schaltflaeche ** Aktuelles Bereitschaftsteam **, um die Rufexperten dieses Teams einzurichten.</value>
     <comment>Text to show command in a welcome Team card.</comment>
   </data>
   <data name="SmeEditNotificationText" xml:space="preserve">
-    <value>This request is modified by {0}.</value>
+    <value>Diese Anfrage wird geaendert von {0}.</value>
     <comment>Text to show when user edits the request.</comment>
   </data>
   <data name="SmeWithdrawNotificationText" xml:space="preserve">
-    <value>This request is withdrawn by {0}.</value>
+    <value>Diese Anfrage wird zurueckgezogen von {0}.</value>
     <comment>Text to show for SME user when withdrawn.</comment>
   </data>
   <data name="RequestUpdatedText" xml:space="preserve">
-    <value>Request updated</value>
+    <value>Anfrage aktualisiert</value>
     <comment>Text to show as title of ticket edited card send in 1:1 chat with bot.</comment>
   </data>
   <data name="WelcomeTeamCardContent" xml:space="preserve">
-    <value>Hello, I can help you provide support to people who interact with me and need more assistance.</value>
+    <value>Hallo, ich kann helfen, Hilfe zu bekommen, die mit mir interagieren und mehr Unterstützung benötigen.</value>
     <comment>Text to show bot description in welcome card for Sme.</comment>
   </data>
   <data name="ClosedErrorMessage" xml:space="preserve">
-    <value>This request is closed and cannot be edited</value>
+    <value>Diese Anfrage ist geschlossen und kann nicht bearbeitet werden</value>
     <comment>Text to show when user want to edit closed request.</comment>
   </data>
   <data name="DescriptionText" xml:space="preserve">
@@ -418,19 +418,19 @@
     <comment>Text to show request type in request submitted card.</comment>
   </data>
   <data name="TitleDisplayText" xml:space="preserve">
-    <value>Worum geht es?</value>
+    <value>Worin besteht das Problem?</value>
     <comment>Text to show as title text in new request card.</comment>
   </data>
   <data name="WithdrawErrorMessage" xml:space="preserve">
-    <value>Only active requests can be withdrawn.</value>
+    <value>Es koennen nur aktive Anfragen zurückgezogen werden.</value>
     <comment>Text to show when user want to withdraw closed request.</comment>
   </data>
   <data name="StatusCheckBulletPoint" xml:space="preserve">
-    <value>* To check status, click the small version of my icon near your message formatting options.</value>
+    <value>* Um den Status zu ueberpruefen, klicken Sie auf das kleine Symbol in der Nähe Ihrer Nachrichtenformatierungsoptionen.</value>
     <comment>Text to show in welcome card for know user how this bot hepls.</comment>
   </data>
   <data name="AzureStorageErrorText" xml:space="preserve">
-    <value>Something went wrong while saving your request. Please try again in few minutes.</value>
+    <value>Beim Speichern Ihrer Anfrage ist ein Fehler aufgetreten. Bitte versuchen Sie es in wenigen Minuten erneut.</value>
     <comment>Text to show error when the request is not save in the azure storage.</comment>
   </data>
   <data name="CancelButtonText" xml:space="preserve">
@@ -450,7 +450,7 @@
     <comment>Text to show for button action.</comment>
   </data>
   <data name="TellUsAboutProblemText" xml:space="preserve">
-    <value>Erzaehlen Sie uns von dem Problem</value>
+    <value>Bitte das Problem schildern:</value>
     <comment>Text to show in card.</comment>
   </data>
   <data name="TitlePlaceHolderText" xml:space="preserve">
@@ -458,22 +458,22 @@
     <comment>Text to show in title place holder.</comment>
   </data>
   <data name="SessionExpired" xml:space="preserve">
-    <value>Your session has expired. Please sign in again to proceed.</value>
+    <value>Deine Sitzung ist abgelaufen. Bitte melden Sie sich erneut an, um fortzufahren.</value>
     <comment>Text to show when user session is expired.</comment>
   </data>
   <data name="UnauthorizedAccess" xml:space="preserve">
-    <value>Unauthorized access</value>
+    <value>Unautorisierter Zugriff</value>
     <comment>Text to show when user is not authenticated.</comment>
   </data>
   <data name="OnCallListUpdateMessage" xml:space="preserve">
-    <value>The on-call experts list is modified.</value>
+    <value>Die Expertenliste auf Abruf wird geändert.</value>
   </data>
   <data name="RequestStatusText" xml:space="preserve">
     <value>Status</value>
     <comment>Text to show ticket current status.</comment>
   </data>
   <data name="TeamRequestBulletPoint" xml:space="preserve">
-    <value>* To check requests assignements, click the small version of my icon near your message formatting options.</value>
+    <value>* Klicken Sie zum Ueberpruefen der Anforderungszuweisungen auf die kleine Version meines Symbols neben Ihren Nachrichtenformatierungsoptionen.</value>
     <comment>Text to show as a bullet point in team welcome card.</comment>
   </data>
 </root>

@@ -194,7 +194,7 @@
     <comment>Text to show bot description in welcome card for EndUser.</comment>
   </data>
   <data name="WelcomeCardTitle" xml:space="preserve">
-    <value>Willkommen bei der Teams Remote Support APP!</value>
+    <value>Willkommen beim Remote Support!</value>
     <comment>Text to show in welcome card.</comment>
   </data>
   <data name="WelcomeSubHeaderText" xml:space="preserve">
@@ -218,7 +218,7 @@
     <comment>Text to show Close action in Change status section.</comment>
   </data>
   <data name="FirstObservedText" xml:space="preserve">
-    <value>Gesichert am</value>
+    <value>Datum?</value>
     <comment>Text to shown title for First observed in ticket card.</comment>
   </data>
   <data name="ReopenActionChoiceTitle" xml:space="preserve">
@@ -326,7 +326,7 @@
     <comment>Text to show user when severity of ticket is changed by Expert team member.</comment>
   </data>
   <data name="DateValidationText" xml:space="preserve">
-    <value>Das Datum liegt in der Vergangenheit</value>
+    <value>Bitte Datum auswaehlen</value>
     <comment>Text to show if issue date is greater than enter date of is empty.</comment>
   </data>
   <data name="DescriptionValidationText" xml:space="preserve">

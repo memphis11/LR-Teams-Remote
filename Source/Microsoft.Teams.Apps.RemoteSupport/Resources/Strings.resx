@@ -170,7 +170,7 @@
     <comment>Text to show on withdraw button in Request submitted card.</comment>
   </data>
   <data name="WithdrawText" xml:space="preserve">
-    <value>Die Anfrage #{0} wurde uerbermittel. Wenn ein anderes Problem auftritt, stellen Sie eine neue Anfrage. </value>
+    <value>Die Anfrage #{0} wurde uerbermittelt. Wenn ein anderes Problem auftritt, stellen Sie eine neue Anfrage. </value>
     <comment>Text to show End User Notification when requets is submitted.</comment>
   </data>
   <data name="Yes" xml:space="preserve">
@@ -314,7 +314,7 @@
     <comment>Text to show user notification message when ticket is closed by Expert Team.</comment>
   </data>
   <data name="EscalateButtonText" xml:space="preserve">
-    <value>Esklaieren</value>
+    <value>Eskalieren</value>
     <comment>Text to show on button in EndUser ME.</comment>
   </data>
   <data name="ReopenedTicketUserNotification" xml:space="preserve">
@@ -438,7 +438,7 @@
     <comment>Text to show for button action.</comment>
   </data>
   <data name="DesciptionPlaceHolderText" xml:space="preserve">
-    <value>Problem beschreiben/value>
+    <value>Problem beschreiben</value>
     <comment>Text to show in desciption place holder.</comment>
   </data>
   <data name="NewRequestTitle" xml:space="preserve">
